@@ -9,5 +9,5 @@
       }
 // root
        if (userInput.toLowerCase() === "root") {
-        window.open("/files/admin.html");
+        window.location.href("/files/admin.html");
       }
