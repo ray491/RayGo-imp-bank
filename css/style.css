@@ -1,0 +1,14 @@
+body {
+    background-color: grey;
+}
+.home {
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+    text-decoration: double;
+    font-size: xx-large;
+}
+.wrong {
+    color: red;
+}
